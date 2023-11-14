@@ -1,11 +1,12 @@
 ### Hi there 👋
+
 I'm a researcher and experimentalist passionate about leveraging software engineering to enhance people's lives. Currently based at Bielefeld University of Applied Sciences and Arts in Germany, I focus on teaching, mentoring, and driving project initiatives.
 
 🔬 **Research Experience**  
-My background spans pragmatic, hands-on research, resulting in published prototypes and extensive involvement in diverse interdisciplinary projects. These projects range from health information systems to cognitive computing, collaborating with experts in medicine, engineering, and psychology.
+My research journey spans pragmatic, hands-on projects covering software engineering, human-computer interaction, crowdsourcing, and conversational AI. I've been involved in interdisciplinary projects collaborating with experts in medicine, engineering, and psychology.
 
 💡 **Project Highlights**  
-- **PAGAnInI:** Currently developing a route training system for enabling people with intellectual disabilities reach their preferred destinations independently. 
+- **PAGAnInI:** Currently developing a route training system for enabling people with intellectual disabilities to reach their preferred destinations independently.
 - **Gymcentral:** Developed a tablet-based virtual gym facilitating online group exercising for older adults, supporting numerous clinical trials.
 - **Collegamenti:** Explored solutions addressing social isolation in nursing homes and trust issues between caregivers and families.
 - **Conversational Web:** Investigating how advancements in natural language processing improve web accessibility for visually impaired and elderly users.
@@ -14,7 +15,12 @@ My background spans pragmatic, hands-on research, resulting in published prototy
 I've supervised and engaged students in research projects, co-advised numerous theses, mentored Ph.D. students and early-stage researchers, and contributed significantly to academic activities focusing on IT for Social Good.
 
 🎓 **Teaching Experience**  
-My teaching involvement spans several years as a teaching assistant in Software Engineering, guest lecturing on human-centered design and chatbots, lecturer in advance interactive systems, and organizing courses focused on designing for vulnerable populations.
+My teaching involvement spans several years as a teaching assistant in Software Engineering, guest lecturing on human-centered design and chatbots, lecturer in advanced interactive systems, and organizing courses focused on designing for vulnerable populations.
+
+🔗 **Google Scholar Profile**  
+[Google Scholar Profile](https://scholar.google.it/citations?user=AacqNbIAAAAJ&hl=en)  
+Explore my publications and research contributions on Google Scholar.
+
 
 
 <!--
