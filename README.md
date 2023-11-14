@@ -18,8 +18,7 @@ I've supervised and engaged students in research projects, co-advised numerous t
 My teaching involvement spans several years as a teaching assistant in Software Engineering, guest lecturing on human-centered design and chatbots, lecturer in advanced interactive systems, and organizing courses focused on designing for vulnerable populations.
 
 🔗 **Google Scholar Profile**  
-[Google Scholar Profile](https://scholar.google.it/citations?user=AacqNbIAAAAJ&hl=en)  
-Explore my publications and research contributions on Google Scholar.
+Explore my publications and research contributions on Google Scholar. [Google Scholar Profile](https://scholar.google.it/citations?user=AacqNbIAAAAJ&hl=en)  
 
 
 
